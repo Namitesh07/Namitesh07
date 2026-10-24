@@ -1,6 +1,18 @@
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Namitesh Pandey — learning defensive security through phishing analysis, Windows logs, and privacy-first projects" width="1000" />
+</p>
+
 # Hi, I'm Namitesh Pandey 👋
 
 ### Cybersecurity enthusiast · Learning through practical projects
+
+<p align="center">
+  <a href="#security-learning-focus">Learning focus</a> ·
+  <a href="#featured-projects">Projects</a> ·
+  <a href="#project-resources">Project resources</a> ·
+  <a href="#technologies-used-in-my-projects">Technologies</a> ·
+  <a href="#github-activity">GitHub activity</a>
+</p>
 
 I'm developing my cybersecurity skills through hands-on projects focused on phishing analysis, Windows security logs, and explainable investigation workflows. I care about making security findings understandable and keeping sensitive data private.
 
@@ -8,6 +20,17 @@ I'm developing my cybersecurity skills through hands-on projects focused on phis
 - 🛠️ **Building:** educational tools that run locally in the browser.
 - 📚 **Learning:** how to connect warning signs with evidence and decide what to investigate next.
 - 🔐 **My approach:** clear reasoning, privacy by design, and honest limitations.
+
+## Security Learning Focus
+
+My projects give me a practical way to explore these areas:
+
+| Area I'm exploring | What I practise | Project connection |
+| --- | --- | --- |
+| **Email security** | Recognising social-engineering cues, inspecting sender and link evidence, and understanding evidence gaps | Phishing Email Analyser |
+| **Defensive security** | Reviewing Windows authentication and account activity, checking event context, and following supporting records | Windows Security Event Log Triage Tool |
+| **Investigation and reporting** | Explaining why a rule triggered, separating findings from conclusions, and documenting what needs verification | Both projects |
+| **Privacy by design** | Keeping analysis local and making the limits of each assessment visible | Both projects |
 
 ## Featured Projects
 
@@ -34,6 +57,15 @@ An educational tool for reviewing exported Windows event data, spotting activity
 
 > Both projects support learning and initial triage. Their findings guide further investigation; they do not prove that an email is safe or that a system is compromised.
 
+## Project Resources
+
+A shortcut to the documentation and release history behind each demo.
+
+| Project | Documentation | What's changed |
+| --- | --- | --- |
+| **Phishing Email Analyser** | [Usage, privacy, and limitations](https://github.com/Namitesh07/phishing-email-analyser#readme) | [Releases](https://github.com/Namitesh07/phishing-email-analyser/releases) |
+| **Windows Event Log Triage** | [Input formats](https://github.com/Namitesh07/windows-security-event-log-triage-tool/blob/main/docs/inputs.md) · [Detection guide](https://github.com/Namitesh07/windows-security-event-log-triage-tool/blob/main/docs/detections.md) | [Releases](https://github.com/Namitesh07/windows-security-event-log-triage-tool/releases) |
+
 ## What I'm Working Towards
 
 Strengthening my understanding of defensive security, improving how I interpret evidence, and documenting what I learn through practical projects.
@@ -45,6 +77,7 @@ Strengthening my understanding of defensive security, improving how I interpret 
 These badges describe the technologies behind my projects.
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 ## GitHub Activity
 
 ![GitHub activity statistics](https://github-readme-stats.shion.dev/api?username=Namitesh07&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
