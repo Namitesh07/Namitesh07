@@ -80,10 +80,19 @@ These badges describe the technologies behind my projects.
 
 ## GitHub Activity
 
-![GitHub activity statistics](https://github-readme-stats.shion.dev/api?username=Namitesh07&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![GitHub contribution streak](https://streak-stats.demolab.com/?user=Namitesh07&theme=github_dark&hide_border=false)<br/>
-The language chart reflects repository code, rather than skill proficiency.
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Namitesh07&amp;theme=github_dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="GitHub activity statistics" />
+</p>
 
-![Repository language breakdown](https://github-readme-stats.shion.dev/api/top-langs/?username=Namitesh07&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Namitesh07&amp;theme=github_dark&amp;hide_border=false" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">The language chart reflects repository code, rather than skill proficiency.</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Namitesh07&amp;theme=github_dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="Repository language breakdown" />
+</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
