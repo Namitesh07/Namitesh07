@@ -1,16 +1,10 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Namitesh Pandey — exploring defensive security, threat detection, and digital forensics" width="1000" />
+  <img src="assets/profile-banner.svg" alt="Namitesh Pandey — exploring defensive security, threat detection, and digital forensics" width="1200" />
 </p>
 
 # Hi, I'm Namitesh Pandey 👋
 
 ### Cybersecurity enthusiast · Learning through practical projects
-
-<p align="center">
-  <a href="#project-resources">Project resources</a> ·
-  <a href="#technologies-and-tools">Technologies &amp; tools</a> ·
-  <a href="#github-activity">GitHub activity</a>
-</p>
 
 I'm developing my cybersecurity skills through hands-on projects focused on phishing analysis, Windows security logs, and explainable investigation workflows. I care about making security findings understandable and keeping sensitive data private.
 
@@ -18,15 +12,7 @@ I'm developing my cybersecurity skills through hands-on projects focused on phis
 - 🛠️ **Building:** educational tools that run locally in the browser.
 - 📚 **Learning:** how to connect warning signs with evidence and decide what to investigate next.
 - 🔐 **My approach:** clear reasoning, privacy by design, and honest limitations.
-
-## Project Resources
-
-A shortcut to the documentation and release history behind each demo.
-
-| Project | Documentation | What's changed |
-| --- | --- | --- |
-| **Phishing Email Analyser** | [Usage, privacy, and limitations](https://github.com/Namitesh07/phishing-email-analyser#readme) | [Releases](https://github.com/Namitesh07/phishing-email-analyser/releases) |
-| **Windows Event Log Triage** | [Input formats](https://github.com/Namitesh07/windows-security-event-log-triage-tool/blob/main/docs/inputs.md) · [Detection guide](https://github.com/Namitesh07/windows-security-event-log-triage-tool/blob/main/docs/detections.md) | [Releases](https://github.com/Namitesh07/windows-security-event-log-triage-tool/releases) |
+- ⚙️ **Key Projects:** [Phishing Email Analyser](https://github.com/Namitesh07/phishing-email-analyser) & [Windows Security Event Log Triage Tool](https://github.com/Namitesh07/windows-security-event-log-triage-tool).
 
 ## What I'm Working Towards
 
