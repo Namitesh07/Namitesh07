@@ -7,10 +7,8 @@
 ### Cybersecurity enthusiast · Learning through practical projects
 
 <p align="center">
-  <a href="#security-learning-focus">Learning focus</a> ·
-  <a href="#featured-projects">Projects</a> ·
   <a href="#project-resources">Project resources</a> ·
-  <a href="#technologies-used-in-my-projects">Technologies</a> ·
+  <a href="#technologies-and-tools">Technologies &amp; tools</a> ·
   <a href="#github-activity">GitHub activity</a>
 </p>
 
@@ -20,42 +18,6 @@ I'm developing my cybersecurity skills through hands-on projects focused on phis
 - 🛠️ **Building:** educational tools that run locally in the browser.
 - 📚 **Learning:** how to connect warning signs with evidence and decide what to investigate next.
 - 🔐 **My approach:** clear reasoning, privacy by design, and honest limitations.
-
-## Security Learning Focus
-
-My projects give me a practical way to explore these areas:
-
-| Area I'm exploring | What I practise | Project connection |
-| --- | --- | --- |
-| **Email security** | Recognising social-engineering cues, inspecting sender and link evidence, and understanding evidence gaps | Phishing Email Analyser |
-| **Defensive security** | Reviewing Windows authentication and account activity, checking event context, and following supporting records | Windows Security Event Log Triage Tool |
-| **Investigation and reporting** | Explaining why a rule triggered, separating findings from conclusions, and documenting what needs verification | Both projects |
-| **Privacy by design** | Keeping analysis local and making the limits of each assessment visible | Both projects |
-
-## Featured Projects
-
-### [Phishing Email Analyser](https://github.com/Namitesh07/phishing-email-analyser)
-
-A browser-based triage tool that surfaces visible phishing warning signs and explains how each finding contributes to a rule-based risk score.
-
-- Inspect message text, link destinations, and available headers.
-- Review evidence coverage and export a shareable summary or full evidence report.
-- Analyse email content locally without uploading it to a server.
-
-[**Explore the repository →**](https://github.com/Namitesh07/phishing-email-analyser) · [**Try the live demo →**](https://namitesh07.github.io/phishing-email-analyser/)
-
-### [Windows Security Event Log Triage Tool](https://github.com/Namitesh07/windows-security-event-log-triage-tool)
-
-An educational tool for reviewing exported Windows event data, spotting activity worth investigating, and tracing findings back to supporting records.
-
-- Analyse CSV, Windows Event XML, JSON, and JSON Lines exports.
-- Review authentication patterns, account changes, and process or service activity.
-- Add investigation notes, export reports, and save cases to reopen later.
-- Process event data locally in the browser.
-
-[**Explore the repository →**](https://github.com/Namitesh07/windows-security-event-log-triage-tool) · [**Try the live demo →**](https://namitesh07.github.io/windows-security-event-log-triage-tool/)
-
-> Both projects support learning and initial triage. Their findings guide further investigation; they do not prove that an email is safe or that a system is compromised.
 
 ## Project Resources
 
@@ -72,11 +34,11 @@ Strengthening my understanding of defensive security, improving how I interpret 
 
 **Investigate the evidence. Understand the limits. Keep learning.**
 
-## Technologies Used in My Projects
+## Technologies and Tools
 
-These badges describe the technologies behind my projects.
+Languages, platforms, and tools I use and explore.
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-%23004B87.svg?style=for-the-badge) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 ## GitHub Activity
 
